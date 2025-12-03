@@ -67,7 +67,10 @@ export function Hero() {
               View Projects <ExternalLink className="size-4 ml-2" />
             </Button>
             <Button variant="outline" asChild>
-              <a href="#" download>
+              <a
+                href="src/assets/cv/PhamQuocNhat_CV_WebDeveloper-Intern.pdf"
+                download="PhamQuocNhat_CV_WebDeveloper-Intern.pdf"
+              >
                 <Download className="size-4 mr-2" /> Download CV
               </a>
             </Button>
