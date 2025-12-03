@@ -13,7 +13,7 @@ export function Projects() {
         <h2 className="text-2xl md:text-3xl font-semibold tracking-tight mb-8">
           Projects
         </h2>
-        <div className="grid sm:grid-cols-2 gap-6">
+        <div className="grid lg:grid-cols-3 sm:grid-cols-2 gap-6">
           {PROJECTS.map((p, i) => (
             <motion.div
               key={p.title}
@@ -29,7 +29,7 @@ export function Projects() {
                   className="object-cover w-full h-80 group-hover:scale-105 transition-transform duration-300"
                 />
                 <CardContent className="p-5 flex flex-col gap-3 grow">
-                  <div className="font-semibold text-lg">{p.title}</div>
+                  <div className="font-semibold text-xl">{p.title}</div>
                   <p className="text-sm text-muted-foreground">{p.desc}</p>
                   <div className="flex flex-wrap gap-2 pt-1">
                     {p.tech.map((t) => (
