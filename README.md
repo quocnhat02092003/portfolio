@@ -8,7 +8,7 @@ A modern, responsive personal portfolio website built with **React 19**, **Vite*
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 
 ## ✨ Demo
-![Demo](https://www.quocnhat.me)
+[Demo](https://www.quocnhat.me)
 
 ## ✨ Features
 
