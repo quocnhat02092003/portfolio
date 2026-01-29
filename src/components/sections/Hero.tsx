@@ -6,6 +6,7 @@ import { Section } from "./Section";
 import { useScrollTo } from "./hooks";
 import Typewriter from "typewriter-effect";
 import image from "@/assets/image/image-hero-1.png";
+import cvPdf from "@/assets/cv/PhamQuocNhat_CV_WebDeveloper-Intern.pdf";
 
 export function Hero() {
   const scrollTo = useScrollTo();
@@ -32,7 +33,7 @@ export function Hero() {
                 onInit={(typewriter) => {
                   typewriter
                     .typeString(
-                      " I build clean, fast web apps with React & .NET."
+                      " I build clean, fast web apps with React & .NET.",
                     )
                     .pauseFor(2500)
                     .deleteAll()
@@ -68,7 +69,7 @@ export function Hero() {
             </Button>
             <Button variant="outline" asChild>
               <a
-                href="src/assets/cv/PhamQuocNhat_CV_WebDeveloper-Intern.pdf"
+                href={cvPdf}
                 download="PhamQuocNhat_CV_WebDeveloper-Intern.pdf"
               >
                 <Download className="size-4 mr-2" /> Download CV

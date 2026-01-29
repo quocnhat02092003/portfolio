@@ -33,7 +33,7 @@ export const PROJECTS = [
     tech: ["React", "Redux Toolkit", ".NET", "SignalR", "Docker", "nginx", "MySQL"],
     demo: "https://thread-app-ui.onrender.com/",
     source: "https://github.com/quocnhat02092003/thread-app",
-    image: "https://idm.edu.vn/wp-content/uploads/2025/01/chien-luoc-marketing-tren-threads-giup-ban-phat-trien-thuong-hieu.jpg"
+    image: "https://img2.helpnetsecurity.com/posts2023/meta-threads1-650.jpg"
   },
   {
     title: "Portfolio",
