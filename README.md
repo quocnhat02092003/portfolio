@@ -7,6 +7,9 @@ A modern, responsive personal portfolio website built with **React 19**, **Vite*
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 
+## ✨ Demo
+[Demo](https://www.quocnhat.me)
+
 ## ✨ Features
 
 - ⚡ **Blazing fast** — Powered by Vite for instant HMR and optimized builds
