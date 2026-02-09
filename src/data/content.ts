@@ -23,7 +23,7 @@ export const PROJECTS = [
     title: "BookStore",
     desc: "E-commerce web app for book lovers with user auth, search, and shopping cart.",
     tech: ["Next.js","TypeScript", "Tailwind CSS", "Redux Toolkit", ".NET", "MySQL", "Entity Framework Core", "LINQ"],
-    demo: "https://thread-app-ui.onrender.com/",
+    demo: "https://bookstorex.vercel.app/",
     source: "https://github.com/quocnhat02092003/BookStore",
     image: "https://media.istockphoto.com/id/1034157536/vector/vector-design-element-for-book-store.jpg?s=612x612&w=0&k=20&c=NEoyiXWj5JqcgLB2B_A08dJyw5RpsNnmi8sIVlCiqZE="
   },
@@ -31,7 +31,7 @@ export const PROJECTS = [
     title: "Threads Clone",
     desc: "A social microblogging app with real‑time notifications, JWT auth, and infinite scroll.",
     tech: ["React", "Redux Toolkit", ".NET", "SignalR", "Docker", "nginx", "MySQL"],
-    demo: "https://thread-app-ui.onrender.com/",
+    demo: "https://thread-app-ui-v1-4.onrender.com/",
     source: "https://github.com/quocnhat02092003/thread-app",
     image: "https://img2.helpnetsecurity.com/posts2023/meta-threads1-650.jpg"
   },
