@@ -31,7 +31,7 @@ export const PROJECTS = [
     title: "Threads Clone",
     desc: "A social microblogging app with real‑time notifications, JWT auth, and infinite scroll.",
     tech: ["React", "Redux Toolkit", ".NET", "SignalR", "Docker", "nginx", "MySQL"],
-    demo: "https://thread-app-ui-v1-4.onrender.com/",
+    demo: "https://thread-app-d71n.onrender.com/",
     source: "https://github.com/quocnhat02092003/thread-app",
     image: "https://img2.helpnetsecurity.com/posts2023/meta-threads1-650.jpg"
   },
